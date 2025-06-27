@@ -1,6 +1,7 @@
 # Course Scheduler
 
 This project is a Python-based timetable scheduler for academic divisions (batches), designed to automatically generate weekly timetables for multiple divisions while respecting various academic and logistical constraints.
+Build focusing on Data Structures and Algorithms. Implemented graph-coloring algorithm and hashing techniques.
 
 ## Features
 - Schedules both theory and lab sessions for multiple divisions.
